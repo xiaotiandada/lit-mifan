@@ -1,0 +1,1 @@
+{"version":3,"file":"mifan-hello.d.ts","sourceRoot":"","sources":["src/mifan-hello.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,UAAU,EAAY,MAAM,KAAK,CAAC;AAG1C,qBACa,UAAW,SAAQ,UAAU;IAExC,OAAgB,MAAM,0BAIpB;IAIF,IAAI,CAAC,EAAE,MAAM,CAAW;IAEf,MAAM;CAGhB;AAED,OAAO,CAAC,MAAM,CAAC;IACb,UAAU,qBAAqB;QAC7B,aAAa,EAAE,UAAU,CAAC;KAC3B;CACF"}
